@@ -12,7 +12,6 @@
     "type": "git",
     "url": "https://github.com/sindresorhus/react-extras"
   },
-  "homepage": "https://github.com/sindresorhus/react-extras",
   "npmName": "react-extras",
   "npmFileMap": [
     {
