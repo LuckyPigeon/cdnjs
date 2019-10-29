@@ -4,7 +4,6 @@
   "description": "Useful components and utilities for working with React",
   "author": {
     "name": "Sindre Sorhus",
-	"email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com"
   },
   "license": "MIT",
