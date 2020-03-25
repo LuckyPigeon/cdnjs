@@ -1,6 +1,5 @@
 {
   "name": "react-extras",
-  "title": "react-extras",
   "description": "Useful components and utilities for working with React",
   "author": {
     "name": "Sindre Sorhus",
@@ -14,13 +13,13 @@
   "npmName": "react-extras",
   "npmFileMap": [
     {
-      "basePath": "source",
+      "basePath": "dist",
       "files": [
         "**/*"
       ]
     }
   ],
-  "filename": "index.min.js",
+  "filename": "index.js",
   "keywords": [
     "react",
     "extras",
