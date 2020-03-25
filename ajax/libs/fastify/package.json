@@ -1,6 +1,5 @@
 {
   "name": "fastify",
-  "title": "fastify",
   "description": "Fast and low overhead web framework, for Node.js",
   "author": {
     "name": "Matteo Collina",
@@ -17,11 +16,12 @@
     {
       "basePath": "",
       "files": [
-        "**/*"
+        "fastify.*",
+        "lib/**/*"
       ]
     }
   ],
-  "filename": "fastify.min.js",
+  "filename": "fastify.js",
   "keywords": [
     "web",
     "framework",
